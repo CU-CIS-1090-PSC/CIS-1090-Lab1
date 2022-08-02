@@ -1,0 +1,9 @@
+{
+    "name": "CU-CIS-1090-PSC Javascript Environment Verification",
+    "private": true,
+    "scripts": {
+        "sayHello": "node index.js"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+  }
